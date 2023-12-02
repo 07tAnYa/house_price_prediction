@@ -1,4 +1,4 @@
-```markdown
+
 # House Price Prediction Project
 
 ## Overview
@@ -64,4 +64,10 @@ The project is organized as follows:
 ## Contributing
 Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.
 
-```
+![Screenshot 2023-12-02 104530](https://github.com/07tAnYa/house_price_prediction/assets/140234197/37cbf206-b57b-437e-a101-10bfd50973b9)
+![Screenshot 2023-12-02 104942](https://github.com/07tAnYa/house_price_prediction/assets/140234197/746261f5-435c-4274-a1ee-eb6fea5093b3)
+![Screenshot 2023-12-02 104640](https://github.com/07tAnYa/house_price_prediction/assets/140234197/8f0f4566-6808-4f27-b2be-b2b6cf4b853a)
+![Screenshot 2023-12-02 104627](https://github.com/07tAnYa/house_price_prediction/assets/140234197/d6bc468b-9831-4b79-93f1-db387222201a)
+![Screenshot 2023-12-02 104550](https://github.com/07tAnYa/house_price_prediction/assets/140234197/c90fe5f5-bae3-4ff2-8b75-548e3dfd715c)
+
+
